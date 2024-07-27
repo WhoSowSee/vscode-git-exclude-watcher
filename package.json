@@ -4,7 +4,7 @@
 	"publisher": "WhoSowSee",
 	"description": "Automatically update file status after changes in .git/info/exclude",
 	"version": "1.0.1",
-	"repository": "https://github.com/WhoSowSee/git-exclude-watcher",
+	"repository": "https://github.com/WhoSowSee/vscode-git-exclude-watcher",
 	"icon": "logo.png",
 	"engines": {
 		"vscode": "^1.91.0"
